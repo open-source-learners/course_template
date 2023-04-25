@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "ADAMU M. MUHAMMAD",
+    "company": "Open Source Leaners"
+  },
+  "title": "Programming Fundamentals",
+  "subtitle": "for Newbies to Tech",
+  "youtubeCourseLink": "https://www.youtube.com/playlist?list=PLyJeNU_bQljZqPY92sryLLKMSKjrhuH01",
+  "social": {
+    "linkedin": "adamu-muhammad-muhammad-13456b190",
+    "github": "AdamsGeeky",
+    "twitter": "AdamsGeeky"
+  },
+  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
+  "keywords": ["your", "Google", "keywords", "here"],
+  "productionBaseUrl": "/programming-fundamentals",
+  "csvPath": "./out/lessons.csv"
+}
