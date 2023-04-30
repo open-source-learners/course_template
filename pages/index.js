@@ -50,9 +50,9 @@ export default function Lessons({ sections }) {
             />
           </div>
         </div>
-        {courseInfo.frontendMastersLink ? (
-          <a href={courseInfo.frontendMastersLink} className="cta-btn">
-            Watch on Frontend Masters
+        {courseInfo.youtubeLink ? (
+          <a href={courseInfo.youtubeLink} className="cta-btn">
+            Watch on Youtube
           </a>
         ) : null}
         <div className="main-card">

@@ -1,4 +1,4 @@
-name: Deploy Programming Fundementals Course Site to GitHub Pages
+name: Deploy Course Site to GitHub Pages
 
 on:
   push:
